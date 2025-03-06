@@ -21,4 +21,3 @@ My research focuses on:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical) -->
 
 ---
-*Feel free to reach out if you're interested in collaborating on projects related to hardware design or AI acceleration!*
