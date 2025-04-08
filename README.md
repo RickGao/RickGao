@@ -7,12 +7,6 @@ I am a Computer Engineering student at NYU, passionate about hardware design, co
 - Leader of IT at NYU CSSA
 - Member of the hardware team at NYU RoboMaster
 
-## 🔬 Research Interests
-My research focuses on:
-- Computer Graphics
-- AI Acceleration
-- Hardware Architecture
-
 ## 🌐 Personal Website
 - [ruichengao.com](https://ruichengao.com)
 
