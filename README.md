@@ -3,10 +3,6 @@
 ## 🎓 About Me
 I am a Computer Engineering student at NYU, passionate about hardware design, computer architecture, systems, and artificial intelligence.
 
-## 🔭 Current Roles
-- Leader of IT at NYU CSSA
-- Member of the hardware team at NYU RoboMaster
-
 ## 🌐 Personal Website
 - [ruichengao.com](https://ruichengao.com)
 
